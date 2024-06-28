@@ -1,7 +1,6 @@
 <template>
-  <div class="wrapper home">
-    <Header />
-    <Hero />
-    <MainButtonBanner />
-  </div>
+	<div class="wrapper home">
+		<Hero />
+		<MainButtonBanner />
+	</div>
 </template>
